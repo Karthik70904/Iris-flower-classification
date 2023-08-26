@@ -10,9 +10,9 @@ Algorithm used for predicting and get accuracy are -
 2. K nearest classifier
 3. SVM
 4. Logistic Regression 
-5. matrics
+5. Metrics
 6. train_test_split
 We are making accuracy and prediction in Iris project through Iris Dataset.
-This is easy and understand for machine learning staters( Naive ).
+This is easy and understand for machine learning starts.
 
 PS: Please do not forget to drop a star if you like it!
